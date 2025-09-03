@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23368
-Fork on GitHub
-7944
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm shahnawaz sandhi</h1>
 <h3 align="center">A passionate B.C.A student at ssctm</h3>
 
