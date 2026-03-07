@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm shahnawaz sandhi</h1>
 <h3 align="center">A passionate B.C.A student at ssctm</h3>
 
-- 🔭 I’m currently working on [K-S-FURNITURS](https://github.com/Shahnawaz63/K-S-FURNITURS)
+- 🔭 I’m currently working on [Quick_Furniture](https://github.com/Shahnawaz63/Quick_Furniture.git)
 
 - 🌱 I’m currently learning **java**
 
