@@ -1,48 +1,31 @@
+<div align="center">
+  <h1>Hi there, I'm Shahnawaz! 👋</h1>
+  <h3>Front-End Developer | BCA Student | Creator</h3>
+</div>
 
-<h1 align="center">Hi 👋, I'm shahnawaz sandhi</h1>
-<h3 align="center">A passionate B.C.A student at ssctm</h3>
+---
 
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **java**
+I love the process of building things from the ground up. Whether it's working with physical materials in carpentry or writing clean, structural code, I get a real thrill out of bringing an idea to life and creating something functional. 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shahnawaz63?tab=repositories](https://github.com/Shahnawaz63?tab=repositories)
+* 🎓 I am currently in my 2nd year studying for my Bachelor of Computer Applications (BCA) at Shree Swaminarayan College of Technology and Management.
+* 💻 I specialize in pure Front-End Web Development. I'm passionate about mastering **vanilla HTML, CSS, and JavaScript** from scratch rather than relying on heavy frameworks. 
+* 🚀 Right now, my main focus is developing **Quick Furniture**, a custom e-commerce platform that I am building from the ground up.
+* 📫 How to reach me: **[Add your email or LinkedIn link here]**
 
-- 💬 Ask me about **c and javascript**
+### 🛠️ My Toolbox
 
-- 📫 How to reach me **Sahnavazsandhi98@gmail.com**
+Because I prefer absolute control over my layouts and logic, I stick to the core languages of the web:
 
-- ⚡ Fun fact **I am a good speaker**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/shahnawaz-sandhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shahnawaz-sandhi" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sahnawazsandhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sahnawazsandhi/" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 📈 GitHub Stats
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahnawaz63&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
