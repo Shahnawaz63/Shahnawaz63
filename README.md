@@ -28,4 +28,5 @@ Because I prefer absolute control over my layouts and logic, I stick to the core
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahnawaz63&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawaz63&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
